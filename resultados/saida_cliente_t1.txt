@@ -1,0 +1,4 @@
+[cliente 11389] Criando struct addr p/ server
+[cliente 11389] client: local time is 1791934248
+[cliente 11389] client: remote time is 1791934248
+[cliente 11389] hora recebida do servidor: 20:30:48

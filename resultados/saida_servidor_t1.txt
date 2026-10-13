@@ -1,0 +1,6 @@
+server: aguardando conexoes na porta 6090 (semaforo inicial = 1)
+[atend #1] conexao aceita
+[atend #1] server: remote time is 1791934248
+[atend #1] aguardando semaforo (sem_wait)...
+[atend #1] ENTROU na regiao critica - server: local time is 1791934248 (20:30:48)
+[atend #1] liberou o recurso (sem_post) as 20:30:50

@@ -1,0 +1,26 @@
+server: aguardando conexoes na porta 6090 (semaforo inicial = 1)
+[atend #1] conexao aceita
+[atend #1] server: remote time is 1791934451
+[atend #1] aguardando semaforo (sem_wait)...
+[atend #2] conexao aceita
+[atend #2] server: remote time is 1791934451
+[atend #2] aguardando semaforo (sem_wait)...
+[atend #1] ENTROU na regiao critica - server: local time is 1791934451 (20:34:11)
+[atend #3] conexao aceita
+[atend #3] server: remote time is 1791934451
+[atend #3] aguardando semaforo (sem_wait)...
+[atend #4] conexao aceita
+[atend #4] server: remote time is 1791934451
+[atend #4] aguardando semaforo (sem_wait)...
+[atend #5] conexao aceita
+[atend #5] server: remote time is 1791934451
+[atend #5] aguardando semaforo (sem_wait)...
+[atend #1] liberou o recurso (sem_post) as 20:34:13
+[atend #2] ENTROU na regiao critica - server: local time is 1791934453 (20:34:13)
+[atend #2] liberou o recurso (sem_post) as 20:34:15
+[atend #3] ENTROU na regiao critica - server: local time is 1791934455 (20:34:15)
+[atend #3] liberou o recurso (sem_post) as 20:34:17
+[atend #4] ENTROU na regiao critica - server: local time is 1791934457 (20:34:17)
+[atend #4] liberou o recurso (sem_post) as 20:34:19
+[atend #5] ENTROU na regiao critica - server: local time is 1791934459 (20:34:19)
+[atend #5] liberou o recurso (sem_post) as 20:34:21
