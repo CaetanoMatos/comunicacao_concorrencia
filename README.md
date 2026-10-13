@@ -1,6 +1,6 @@
 # Servidor de Tempo com Semáforo
 
-Trabalho de Sistemas Operacionais (comunicação e concorrência): implementação de um semáforo rudimentar para controlar, de forma concorrente, o acesso a um recurso distribuído, no caso o atendimento de um servidor de tempo via sockets TCP.
+Trabalho de Computação Paralela e Sistemas Distribuídos, no IFRS - Campus Ibirubá, ministrado pelo Prof Luis Gubert (comunicação e concorrência): implementação de um semáforo rudimentar para controlar, de forma concorrente, o acesso a um recurso distribuído, no caso o atendimento de um servidor de tempo via sockets TCP.
 
 ## Objetivo
 
